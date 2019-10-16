@@ -1,0 +1,29 @@
+@import url("https://fontlibrary.org/face/8bit-wonder");
+
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.nav {
+  top: 0;
+  left: 0;
+}
+
+/*.logo {
+  font-family: "8BITWONDERNominal";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 1.25rem;
+  padding: 8px;
+  padding-bottom: 0;
+}*/
+
+.ul {
+  list-style-type: none;
+}
+
+.h1 {
+  text-align: center;
+}

@@ -1,0 +1,16 @@
+.pacman {
+  width: 48px;
+}
+
+.EAST {
+  transform: rotate(0);
+}
+.NORTH {
+  transform: rotate(-90deg);
+}
+.SOUTH {
+  transform: rotate(90deg);
+}
+.WEST {
+  transform: scaleX(-1);
+}

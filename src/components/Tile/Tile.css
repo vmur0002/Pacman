@@ -1,0 +1,25 @@
+.tile {
+  width: 64px;
+  height: 64px;
+  border: 1px solid green;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ground {
+  background: transparent;
+  color: white;
+}
+
+.edge {
+  visibility: hidden;
+  background: gray;
+  border-color: gray;
+}
+
+/* .pacman {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
